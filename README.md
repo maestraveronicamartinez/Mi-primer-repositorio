@@ -3,7 +3,7 @@ Repositorio de prueba para subir archivos de php
 
 Es mi primer repositorio para aprender GitHub
 
-Verónica Martínez Anaya
+Verónica Martínez Anaya.
 
 3ºA Programación Turno Matutino.
 
